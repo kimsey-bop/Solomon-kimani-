@@ -1,2 +1,3 @@
 # Solomon-kimani-
-Computer and data science 
+computer science Guru
+Data science Guru 
